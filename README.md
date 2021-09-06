@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddhiguptaa
+- 👋 Hi, I’m @siddhiguptaa, a final year student pursuing B.Sc. (H) Computer Science from University of Delhi. 
 - 👀 I’m interested in Data Science, Web Development, UI/UX Design and DSA. 
 - 🌱 I’m currently learning Data Science & DSA.
 - 💞️ I’m looking to collaborate on open source projects in Python and C++ langauges. 
