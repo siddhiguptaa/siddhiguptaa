@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @siddhiguptaa, a final year student pursuing B.Sc. (H) Computer Science from University of Delhi. 
-- 👀 I’m interested in Data Science, Web Development, UI/UX Design and DSA. 
-- 🌱 I’m currently learning Data Science & DSA.
-- 💞️ I’m looking to collaborate on open source projects in Python and C++ langauges. 
-- 📫 How to reach me, siddhigupta1304@gmail.com
-
-<!---
-siddhiguptaa/siddhiguptaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align=center>
+  <a href="https://github.com/siddhiiguptaa">
+    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/siddhiiguptaa?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+  </a>
+</p>
