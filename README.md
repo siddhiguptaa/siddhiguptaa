@@ -6,3 +6,5 @@
     <img src="https://badges.pufler.dev/repos/siddhiiguptaa?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=siddhiiguptaa&style=plastic&label=Stalker+Alert) <br>
