@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=siddhiiguptaa&style=plastic&label=Stalker+Alert) <br>
 
+I am currently working on Front-End Development & UX Design Case Studies. Working to improve my skillset by learning Data Science. 
+
 ## currently I am working on: 
  * polishing my web development skills. 
  * entering the world of data. 
