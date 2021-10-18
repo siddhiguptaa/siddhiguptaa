@@ -112,3 +112,30 @@ I am a Strong Advocate for 📜 open source, 🆕 Innovation and Automation 🤖
 
 ![](https://komarev.com/ghpvc/?username=siddhiiguptaa&style=plastic&label=Stalker+Alert) <br>
 
+
+<div>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/1.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/14.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/18.gif" width="36" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/19.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/10.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/11.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/12.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/15.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/7.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/2.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/22.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/13.gif" width="36" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/17.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/13.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/26.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/27.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/3.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/6.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/8.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/4.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/20.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/24.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/5.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/9.gif" width="30" height="30"/>
+</div>
