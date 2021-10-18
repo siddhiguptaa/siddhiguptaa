@@ -1,5 +1,6 @@
 > /sid-dhee/
 
+Free software engineer, digital media designer, and aspiring computer graphics scientist.
 
 I am currently working on Front-End Development & UX Design Case Studies. I am adding onto my existing skillset by learning Data Science. I am open to collaborate on developing new and impactful open source projects. 
 
@@ -14,6 +15,8 @@ Steadily growing into people management and recently into  Angular.
 I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college student and I also love Physics, and want to learn more about how the Universe works.
 
 Fascinated by everything that's CS related. 
+
+My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
 Besides programming I enjoy 🏊 swimming, 🎮 gaming and 🏸 professional badminton.
 
@@ -39,6 +42,12 @@ I am a Strong Advocate for 📜 open source, 🆕 Innovation and Automation 🤖
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
+	
+## My interest ❤️ 
+
+**Cloud Native, Big Data , Blockchain and AI**☁️
+
+**Kubernetes, Docker, Istio, Envoy, WebAssembly, eBPF** 🪐
  
 ## currently I am working on: 
  * polishing my web development skills. 
