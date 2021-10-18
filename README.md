@@ -78,5 +78,22 @@ I am a Strong Advocate for 📜 open source, 🆕 Innovation and Automation 🤖
 <br>
 </p>      
 
+**Favorite sites**
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
+
+🔭 I’m currently researching at the intersection of machine learning and databases with the IDEA Lab
+💬 Brainstorm with me over tech, algorithms, career, and music
+📫 How to reach me: rsjcoepit@gmail.com
+😄 Pronouns: Programmer/She/Her/Hers
+⚡ Fun fact: Checkout my Lean2Lead Pune Community if you are ambitious!
+
 ![](https://komarev.com/ghpvc/?username=siddhiiguptaa&style=plastic&label=Stalker+Alert) <br>
 
