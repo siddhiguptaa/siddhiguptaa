@@ -1,10 +1,21 @@
 > /sid-dhee/
 
-![](https://komarev.com/ghpvc/?username=siddhiiguptaa&style=plastic&label=Stalker+Alert) <br>
 
-I am currently working on Front-End Development & UX Design Case Studies. 
-I am adding onto my existing skillset by learning Data Science.
-I am open to collaborate on developing new and impactful open source projects. 
+I am currently working on Front-End Development & UX Design Case Studies. I am adding onto my existing skillset by learning Data Science. I am open to collaborate on developing new and impactful open source projects. 
+
+✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities.
+
+When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
+
+Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+
+Steadily growing into people management and recently into  Angular.
+
+I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college student and I also love Physics, and want to learn more about how the Universe works.
+
+Fascinated by everything that's CS related. 
+
+- ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
 
 I am a Strong Advocate for 📜 open source, 🆕 Innovation and Automation 🤖.
 
@@ -50,4 +61,7 @@ I am a Strong Advocate for 📜 open source, 🆕 Innovation and Automation 🤖
 <a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
-</p>       
+</p>      
+
+![](https://komarev.com/ghpvc/?username=siddhiiguptaa&style=plastic&label=Stalker+Alert) <br>
+
