@@ -15,9 +15,15 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 
 Fascinated by everything that's CS related. 
 
+Besides programming I enjoy 🏊 swimming, 🎮 gaming and 🏸 professional badminton.
+
 - ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
 
 I am a Strong Advocate for 📜 open source, 🆕 Innovation and Automation 🤖.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+</p>
 
 ### My skills include
 
